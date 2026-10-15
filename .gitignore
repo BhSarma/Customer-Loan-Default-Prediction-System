@@ -1,0 +1,8 @@
+loan_fraud_env_2/
+loan_test_env/
+_pycache_/
+*.pyc
+logs/
+build/
+dist/
+*.egg-info/
